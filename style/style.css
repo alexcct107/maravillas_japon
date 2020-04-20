@@ -1,5 +1,7 @@
 body {
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Open Sans',sans-serif;
+  font-weight: 400;
+  font-size: 17px;
 }
 body.view {
   height: 100%;
@@ -10,13 +12,9 @@ h6 {
 }
 
 
-.orange{
+.orange {
   background-color: #F9A45A;
 }
-
-p, ul li{
-font-family: 'Roboto Mono', monospace;
-} 
 
 .card img {
   height: 300px;
