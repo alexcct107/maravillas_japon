@@ -19,3 +19,9 @@ h6 {
 .card img {
   height: 300px;
 }
+
+.img-cover{
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 50% 50%;
+}
