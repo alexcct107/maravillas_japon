@@ -1,3 +1,218 @@
-$(document).ready(function () {
-   
-});
+$(document).ready(function(){
+
+      $('#niseko').hide();
+      $("#hide").click(function(){
+      $("#niseko").hide();
+    });
+    $("#show").click(function(){
+      $("#niseko").show();
+    });
+  
+    $('#furano').hide();
+    $("#hide1").click(function(){
+      $("#furano").hide();
+    });
+    $("#show1").click(function(){
+      $("#furano").show();
+    });
+    
+    $('#sapporo').hide();
+    $("#hide2").click(function(){
+      $("#sapporo").hide();
+    });
+    $("#show2").click(function(){
+      $("#sapporo").show();
+    });
+
+    $('#aomori').hide();
+    $("#hide3").click(function(){
+      $("#aomori").hide();
+    });
+    $("#show3").click(function(){
+      $("#aomori").show();
+    });
+
+    $('#akita').hide();
+    $("#hide4").click(function(){
+      $("#akita").hide();
+    });
+    $("#show4").click(function(){
+      $("#akita").show();
+    });
+     
+    $('#iwate').hide();
+    $("#hide5").click(function(){
+      $("#iwate").hide();
+    });
+    $("#show5").click(function(){
+      $("#iwate").show();
+    });
+
+    $('#yamagata').hide();
+    $("#hide6").click(function(){
+      $("#yamagata").hide();
+    });
+    $("#show6").click(function(){
+      $("#yamagata").show();
+    });
+
+    $('#miyagi').hide();
+    $("#hide7").click(function(){
+      $("#miyagi").hide();
+    });
+    $("#show7").click(function(){
+      $("#miyagi").show();
+    });
+
+    $('#fukushima').hide();
+    $("#hide8").click(function(){
+      $("#fukushima").hide();
+    });
+    $("#show8").click(function(){
+      $("#fukushima").show();
+    });
+
+    $('#tokio').hide();
+    $("#hide9").click(function(){
+      $("#tokio").hide();
+    });
+    $("#show9").click(function(){
+      $("#tokio").show();
+    });
+
+    $('#kanagawa').hide();
+    $("#hide10").click(function(){
+      $("#kanagawa").hide();
+    });
+    $("#show10").click(function(){
+      $("#kanagawa").show();
+    });
+
+    $('#chiba').hide();
+    $("#hide11").click(function(){
+      $("#chiba").hide();
+    });
+    $("#show11").click(function(){
+      $("#chiba").show();
+    });
+
+    $('#saitama').hide();
+    $("#hide12").click(function(){
+      $("#saitama").hide();
+    });
+    $("#show12").click(function(){
+      $("#saitama").show();
+    });
+
+    $('#ibaraki').hide();
+    $("#hide13").click(function(){
+      $("#ibaraki").hide();
+    });
+    $("#show13").click(function(){
+      $("#ibaraki").show();
+    });
+
+    $('#tochigi').hide();
+    $("#hide14").click(function(){
+      $("#tochigi").hide();
+    });
+    $("#show14").click(function(){
+      $("#tochigi").show();
+    });
+
+    $('#niigata').hide();
+    $("#hide15").click(function(){
+      $("#niigata").hide();
+    });
+    $("#show15").click(function(){
+      $("#niigata").show();
+    });
+
+    $('#toyama').hide();
+    $("#hide16").click(function(){
+      $("#toyama").hide();
+    });
+    $("#show16").click(function(){
+      $("#toyama").show();
+    });
+
+    $('#ishikawa').hide();
+    $("#hide17").click(function(){
+      $("#ishikawa").hide();
+    });
+    $("#show17").click(function(){
+      $("#ishikawa").show();
+    });
+
+    $('#fukui').hide();
+    $("#hide18").click(function(){
+      $("#fukui").hide();
+    });
+    $("#show18").click(function(){
+      $("#fukui").show();
+    });
+
+    $('#nagano').hide();
+    $("#hide19").click(function(){
+      $("#nagano").hide();
+    });
+    $("#show19").click(function(){
+      $("#nagano").show();
+    });
+
+    $('#nagiso').hide();
+    $("#hide20").click(function(){
+      $("#nagiso").hide();
+    });
+    $("#show20").click(function(){
+      $("#nagiso").show();
+    });
+
+    $('#kioto').hide();
+    $("#hide21").click(function(){
+      $("#kioto").hide();
+    });
+    $("#show21").click(function(){
+      $("#kioto").show();
+    });
+
+    $('#osaka').hide();
+    $("#hide22").click(function(){
+      $("#osaka").hide();
+    });
+    $("#show22").click(function(){
+      $("#osaka").show();
+    });
+
+    $('#shiga').hide();
+    $("#hide23").click(function(){
+      $("#shiga").hide();
+    });
+    $("#show23").click(function(){
+      $("#shiga").show();
+    });
+
+    $('#hyogo').hide();
+    $("#hide24").click(function(){
+      $("#hyogo").hide();
+    });
+    $("#show24").click(function(){
+      $("#hyogo").show();
+    });
+
+    $('#nara').hide();
+    $("#hide25").click(function(){
+      $("#nara").hide();
+    });
+    $("#show25").click(function(){
+      $("#nara").show();
+    });
+
+    $('#wakayama').hide();
+    $("#hide26").click(function(){
+      $("#wakayama").hide();
+    });
+    $("#show26").click(function(){
+      $("#wakayama").show();
+    });
+    });
