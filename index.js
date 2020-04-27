@@ -215,4 +215,55 @@ $(document).ready(function(){
     $("#show26").click(function(){
       $("#wakayama").show();
     });
+
+    $('#tottori').hide();
+    $("#hide27").click(function(){
+      $("#tottori").hide();
+    });
+    $("#show27").click(function(){
+      $("#tottori").show();
+    });
+
+    $('#shimane').hide();
+    $("#hide28").click(function(){
+      $("#shimane").hide();
+    });
+    $("#show28").click(function(){
+      $("#shimane").show();
+    });
+
+    $('#okayama').hide();
+    $("#hide29").click(function(){
+      $("#okayama").hide();
+    });
+    $("#show29").click(function(){
+      $("#okayama").show();
+    });
+
+
+    $('#hiroshima').hide();
+    $("#hide30").click(function(){
+      $("#hiroshima").hide();
+    });
+    $("#show30").click(function(){
+      $("#hiroshima").show();
+    });
+
+
+    $('#yamaguchi').hide();
+    $("#hide31").click(function(){
+      $("#yamaguchi").hide();
+    });
+    $("#show31").click(function(){
+      $("#yamaguchi").show();
+    });
+
+
+    $('#miyajima').hide();
+    $("#hide32").click(function(){
+      $("#miyajima").hide();
+    });
+    $("#show32").click(function(){
+      $("#miyajima").show();
+    });
     });
