@@ -266,4 +266,37 @@ $(document).ready(function(){
     $("#show32").click(function(){
       $("#miyajima").show();
     });
+
+
+    $('#tokushima').hide();
+    $("#hide33").click(function(){
+      $("#tokushima").hide();
+    });
+    $("#show33").click(function(){
+      $("#tokushima").show();
+    });
+
+    $('#kagawa').hide();
+    $("#hide34").click(function(){
+      $("#kagawa").hide();
+    });
+    $("#show34").click(function(){
+      $("#kagawa").show();
+    });
+
+    $('#ehime').hide();
+    $("#hide35").click(function(){
+      $("#ehime").hide();
+    });
+    $("#show35").click(function(){
+      $("#ehime").show();
+    });
+
+    $('#kochi').hide();
+    $("#hide36").click(function(){
+      $("#kochi").hide();
+    });
+    $("#show36").click(function(){
+      $("#kochi").show();
+    });
     });
