@@ -299,4 +299,52 @@ $(document).ready(function(){
     $("#show36").click(function(){
       $("#kochi").show();
     });
+
+    $('#fukuoka').hide();
+    $("#hide37").click(function(){
+      $("#fukuoka").hide();
+    });
+    $("#show37").click(function(){
+      $("#fukuoka").show();
+    });
+
+    $('#saga').hide();
+    $("#hide38").click(function(){
+      $("#saga").hide();
+    });
+    $("#show38").click(function(){
+      $("#saga").show();
+    });
+
+    $('#nagasaki').hide();
+    $("#hide39").click(function(){
+      $("#nagasaki").hide();
+    });
+    $("#show39").click(function(){
+      $("#nagasaki").show();
+    });
+
+    $('#kumamoto').hide();
+    $("#hide40").click(function(){
+      $("#kumamoto").hide();
+    });
+    $("#show40").click(function(){
+      $("#kumamoto").show();
+    });
+
+    $('#miyazaki').hide();
+    $("#hide41").click(function(){
+      $("#miyazaki").hide();
+    });
+    $("#show41").click(function(){
+      $("#miyazaki").show();
+    });
+
+    $('#kagoshima').hide();
+    $("#hide42").click(function(){
+      $("#kagoshima").hide();
+    });
+    $("#show42").click(function(){
+      $("#kagoshima").show();
+    });
     });
