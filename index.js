@@ -348,3 +348,6 @@ $(document).ready(function(){
       $("#kagoshima").show();
     });
     });
+
+
+  
